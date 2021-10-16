@@ -1,1 +1,1 @@
-# Basic_js
+This is basic_js project
